@@ -1,7 +1,7 @@
 from aiogram import Bot, Dispatcher
 from aiogram.types import Message
 
-BOT_TOKEN = ''
+BOT_TOKEN = 'YOUR_BOT_TOKEN'
 
 bot = Bot(token=BOT_TOKEN)
 dp = Dispatcher()
